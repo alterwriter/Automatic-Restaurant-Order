@@ -8,6 +8,10 @@ this program represents about the cashier working which brings more info in coff
 
 how to run ?
 
-Running on your Command line/Terminal For windows : [+] install python 3 [+] Open CMD and type { python script.py } (without semicolon)
+Running on your Command line/Terminal For windows : 
+[+] install python 3 
+[+] Open CMD and type { python script.py } (without semicolon)
 
-For Linux: [+] sudo apt install python3 [+] python3 script.py
+For Linux: 
+[+] sudo apt install python3 
+[+] python3 script.py
